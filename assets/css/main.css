@@ -1,14 +1,17 @@
 :root {
   /* Colors
   ____________________*/
-  --color-primary: #0398a9;
-  --color-primary-dark: #20e5f4;
-  --color-bg-primary:aliceblue;
-  --color-bg-secondary: #090909;
-  --color-bg-footer: #151515;
-  --color-white:aliceblue;
-  --color-text: #050505;
-  --color-border: #060606;
+  --color-primary: rgb(42, 65, 194);
+  --color-primary-dark: rgb(93, 56, 205);
+  --color-bg-primary:rgb(0, 0, 0);
+
+  --color-bg-secondary: #ffffff;
+  --color-bg-footer: #1e2555;
+  
+  --color-white:rgb(241, 235, 235);  
+
+  --color-text: aliceblue;
+  --color-border: #0f1569;
 
   /* Font & Typography
   ___________________*/
