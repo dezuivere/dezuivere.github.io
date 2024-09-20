@@ -1,14 +1,14 @@
 :root {
   /* Colors
   ____________________*/
-  --color-primary: rgb(42, 65, 194);
-  --color-primary-dark: rgb(93, 56, 205);
+  --color-primary: rgb(117, 111, 232);
+  --color-primary-dark: rgb(104, 102, 105);
   --color-bg-primary:rgb(0, 0, 0);
 
   --color-bg-secondary: #ffffff;
-  --color-bg-footer: #1e2555;
+  --color-bg-footer: #c094e4;
   
-  --color-white:rgb(241, 235, 235);  
+  --color-white:rgb(128, 182, 188);  
 
   --color-text: aliceblue;
   --color-border: #0f1569;
@@ -41,7 +41,7 @@
   --height-header--scroll: 8rem;
 
   /* Transition and box shadow*/
-  --transition: all 0.4s cubic-bezier(0.645, 0.045, 0.355, 1);
+  --transition: all 0.1s cubic-bezier(0.645, 0.045, 0.355, 1);
   --box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 }
 
